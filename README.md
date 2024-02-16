@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmiguptaa&label=Profile%20views&color=0e75b6&style=flat" alt="rashmiguptaa" /> </p>
 
-- 🔭 I have worked on [GLOBAL SUPERSTORE ANALYSIS](https://github.com/rashmiguptaa/global-superstore-analysis)
-
-- 🌱 I’m currently learning **DATA ANALYSIS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/rashmiguptaa?tab=repositories](https://github.com/rashmiguptaa?tab=repositories)
 
 - 📫 How to reach me **rsgupta222@gmail.com**
